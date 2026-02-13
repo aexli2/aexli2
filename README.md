@@ -2,8 +2,6 @@ Hello! I’m Aaron Exline, in high school I began my journey with Computer Scien
  
 Currently, I’m a junior at University of Illinois Chicago pursuing my Bachelor’s Degree in Computer Science with a concentration in Software Engineering. I am proficient in Python, Java, C, C++ and have experience with HTML, SQL, JavaScript, CSS. In my time at UIC, I have worked on a unity game with a team of engineers as well as done research and worked on a Sign Language interpreter using OpenCV and media pipeline APIs in the ACM. I’ve also developed a cross communication game using Arduino R4 microcontrollers and researched April Tags API in correlation with robotics and OpenCV inside of the EDT. In addition to my CS work, I am also skilled in Sales, Product Management, Working in Fast Paced Environments, and Customer Service as shown through my work as a trainer at White Castle.
 
-In the future, I am looking forward to learning more about robotics and how I can better use my skills in the workplace to better help society and my surrounding communities. I will be finishing my Swift 101 certification course and applying it towards IOS development in both practice and work. Lastly, I will be developing software that anyone can utilize to help fulfill their needs in either security or real-world problems.
-
 Languages: Java, JavaScript, HTML, CSS, Python, C++, C, SQL
 
 <!--
