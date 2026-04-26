@@ -1,4 +1,4 @@
-<h1>*Hello*</h1>
+<h1>Hello and Welcome</h1>
 
 I grew up using computers in almost every aspect of my life. No matter what I was doing I had technology in my hand. It made me ambitious to the point where I wanted to make Computer Science a career path. 
 
